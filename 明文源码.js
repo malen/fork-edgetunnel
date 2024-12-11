@@ -1,4 +1,3 @@
-
 import { connect } from 'cloudflare:sockets';
 
 let userID = '1caf7487-0b19-4fde-82ee-f3cc5c0927df';
